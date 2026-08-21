@@ -4,7 +4,7 @@
 **What is the Feynman Technique? Explain in 1 line.**
 
 **Answer:**
-> The Feynman Technique is a learning method where you explain a concept in simple words to identify gaps in your understanding and learn it better.
+The Feynman Technique is a learning method where after learning we try to explain the concept in simple words to identify gaps in our understanding and learn it better.
 
 ---
 
@@ -12,7 +12,7 @@
 **In this video, what was the most interesting story or idea for you?**
 
 **Answer:**
-> The most interesting idea for me was that taking breaks can actually help me learn better. When I stop focusing on a difficult problem and relax, my brain can continue processing the problem in the background and sometimes find a solution more easily.
+The most interesting idea for me was that taking breaks can actually help learn better. When stop focusing on a difficult problem and relax, brain can continue processing the problem in the background and sometimes find a solution more easily.
 
 ---
 
@@ -20,13 +20,12 @@
 **What are active and diffused modes of thinking?**
 
 **Answer:**
-> **Active (focused) mode** is when we concentrate deeply on a specific problem or concept, while **diffused mode** is when we relax and allow our brain to make connections and process information in the background.
+Active (focused) mode is when we concentrate deeply on a specific problem or concept, while Diffused mode is when we relax and allow our brain to make connections and process information in the background.
 
 ---
 
 ## Question 4
 **According to the video, what are the steps to take when approaching a new topic?**  
-*Only mention the points.*
 
 - Choose what you want to learn.
 - Learn enough to understand the basics.
